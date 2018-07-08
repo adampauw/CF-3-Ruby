@@ -1,0 +1,1 @@
+A Sentence is as a sentence does.

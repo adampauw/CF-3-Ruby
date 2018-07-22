@@ -2,7 +2,6 @@ puts "Let's play Rock, Paper, Scissors!"
 
 comp_score = 0
 human_score = 0
-
 until human_score == 3 || comp_score ==3
     p "Choose rock paper or scissors"
 

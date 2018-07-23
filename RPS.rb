@@ -26,11 +26,11 @@ else
     p "Computer wins!"
     comp_score += 1
 end
-
+    p "#############"
     p "Computer chose: #{computer}"
 
     p "Human Score: #{human_score}"
     p "Computer Score: #{comp_score}"
-
+    p "#############"
 
 end
